@@ -10,6 +10,30 @@
 Install the following packages before running the scripts:
 
 ```bash
-pip install pandas matplotlib seaborn pyspark dask fbprophet scikit-learn numpy
+pip install pandas
+numpy
+matplotlib
+seaborn
+pyspark
+dask
+scikit-learn
+fbprophet
+geopandas
+shapely
+folium
+fiona
+pyproj
+rtree
+descartes
+sqlalchemy
+jupyterlab
+nltk
+textblob
+spacy
+wordcloud
+pyyaml
+pyarrow
+tqdm
+py4j
 
 
